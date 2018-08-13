@@ -1,0 +1,14 @@
+
+#pageTitle {
+    text-align: center;
+    height: 200px;
+ }
+.label {
+     background-color: blue;
+     height: 60px;
+     font-size: 20px;
+     display: flex;
+     justify-content: center; /* align horizontal */
+     align-items: center; 
+    
+ }
